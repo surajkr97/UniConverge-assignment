@@ -9,6 +9,10 @@ A clean and minimal implementation of the **UniConverge assignment**, built with
 
 ---
 
+### 🔗 **Live Demo:** *https://uniconverge-assignment.netlify.app/*
+
+---
+
 ## 🎨 Screenshots  
 ### 🏠 Home Page
 <img src="./public/home-preview.png" alt="Home Page" width="900" height="500" />
